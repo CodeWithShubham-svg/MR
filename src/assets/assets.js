@@ -22,7 +22,6 @@ import Legal_Qr from './Legal_Qr.png';
 // Exporting all assets for easy access in other parts of the app
 export const assets = {
   logo,
-  logo_dark,
   cross_icon,
   menu_icon,
   star_icon,
